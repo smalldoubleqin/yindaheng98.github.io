@@ -2,14 +2,11 @@
 title: Go语言
 date: 2019-10-15 02:38:07
 tags: 
- - 编程语言
  - Go
- - 实战
 categories: 
  - 编程语言
  - Go
 ---
-# Go语言
 
 ## Go语言的核心思想
 

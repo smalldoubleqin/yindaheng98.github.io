@@ -3,13 +3,13 @@ title: (未完成)Couchbase和N1QL原理
 date: 2019-11-11 08:22:14
 tags: 
  - 数据库
+ - NoSQL
+ - Couchbase
  - 未完成
- - 原理
 categories: 
  - 数据库
 cover: /数据库/i/Artboard.svg
 ---
-# (未完成)Couchbase和N1QL原理
 
 ![封面](i/Artboard.svg)
 

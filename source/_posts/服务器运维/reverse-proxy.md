@@ -3,11 +3,9 @@ title: Apache2反向代理的配置方法
 date: 2019-05-07 09:04:17
 tags: 
  - 服务器运维
- - 实践
 categories: 
  - 服务器运维
 ---
-# Apache2反向代理的配置方法
 
 ——基于mattrayner/lamp:latest-1804
 

@@ -3,12 +3,13 @@ title: Bloom Filter：布隆过滤器
 date: 2019-10-28 03:13:59
 tags: 
  - 数据库
- - 原理
+ - NoSQL
+ - Cassandra
+ - 算法
 categories: 
  - 数据库
 cover: /数据库/i/bloom_filter_insert.png
 ---
-# Bloom Filter：布隆过滤器
 
 ## 布隆过滤器——检查一个元素是否在一个集合中——**可能存在**或者**一定不存在**
 

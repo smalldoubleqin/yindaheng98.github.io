@@ -3,12 +3,14 @@ title: (未完成)SSTable和Memtable和LSMTree
 date: 2019-10-28 06:52:23
 tags: 
  - 数据库
- - 原理
+ - NoSQL
+ - Cassandra
+ - BigTable
+ - 算法
  - 未完成
 categories: 
  - 数据库
 ---
-# (未完成)SSTable和Memtable和LSMTree
 
 [Cassandra深度优化](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
 

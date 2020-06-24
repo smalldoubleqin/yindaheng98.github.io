@@ -3,13 +3,11 @@ title: mattrayner/docker-lamp的1804版的dockerfile解读
 date: 2019-04-17 11:04:37
 tags: 
  - Docker
- - 实战
  - Dockerfile
  - 服务器运维
 categories: 
  - Docker
 ---
-# mattrayner/docker-lamp的1804版的dockerfile解读
 
 ```dockerfile
 FROM phusion/baseimage

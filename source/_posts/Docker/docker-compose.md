@@ -3,12 +3,10 @@ title: docker-compose的使用方法
 date: 2019-10-07 13:37:55
 tags: 
  - Docker
- - 实战
  - docker-compose
 categories: 
  - Docker
 ---
-# docker-compose的使用方法
 
 [先来一个讲的比较好的博文](https://www.jianshu.com/p/658911a8cff3)
 

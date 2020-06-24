@@ -3,12 +3,10 @@ title: Redis中的分布式
 date: 2019-09-23 07:37:12
 tags: 
  - 分布式
- - 工具
- - 原理
+ - Redis
 categories: 
  - 分布式
 ---
-# Redis中的分布式
 
 ## 复制
 

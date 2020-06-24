@@ -3,14 +3,11 @@ title: Service Mesh 服务网格——原理
 date: 2019-11-21 05:43:22
 tags: 
  - 微服务
- - 编程思想
  - Service Mesh
- - 原理
 categories: 
  - 微服务
 cover: /微服务/i/serivce-mesh-control-plane.png
 ---
-# Service Mesh 服务网格——原理
 
 [参考教程](https://www.servicemesher.com/istio-handbook/intro/service-mesh-the-microservices-in-post-kubernetes-era.html)
 

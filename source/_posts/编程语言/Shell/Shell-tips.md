@@ -2,13 +2,11 @@
 title: Shell拾遗
 date: 2019-12-03 16:04:32
 tags: 
- - 编程语言
  - Shell
 categories: 
  - 编程语言
  - Shell
 ---
-# Shell拾遗
 
 ## getopts和getopt
 

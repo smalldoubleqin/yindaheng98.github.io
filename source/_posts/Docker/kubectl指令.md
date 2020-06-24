@@ -3,12 +3,10 @@ title: kubectl指令
 date: 2019-09-23 07:37:12
 tags: 
  - Docker
- - 实战
  - k8s
 categories: 
  - Docker
 ---
-# kubectl指令
 
 ## 与docker指令功能类似的在kubectl指令
 

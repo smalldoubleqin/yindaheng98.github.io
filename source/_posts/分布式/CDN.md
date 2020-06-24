@@ -3,12 +3,10 @@ title: CDN的原理和实现方式
 date: 2019-08-20 14:51:33
 tags: 
  - 分布式
- - 原理
 categories: 
  - 分布式
 cover: /分布式/i/无CDN访问网站.png
 ---
-# CDN的原理和实现方式
 <!-- ttoc -->
 ## 原理
 

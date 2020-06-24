@@ -3,11 +3,9 @@ title: 如何在Ubuntu上整一个LAMP
 date: 2019-04-17 03:37:18
 tags: 
  - 服务器运维
- - 实践
 categories: 
  - 服务器运维
 ---
-# 如何在Ubuntu上整一个LAMP
 
 二话不说先装个vim换源👇（docker上的ubuntu没有预装vim还要自己下😅
 

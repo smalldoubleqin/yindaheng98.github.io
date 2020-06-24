@@ -3,13 +3,11 @@ title: Redis
 date: 2019-08-20 14:51:33
 tags: 
  - 分布式
- - 工具
- - 原理
+ - Redis
 categories: 
  - 分布式
 cover: /分布式/i/多路复用.jpg
 ---
-# Redis
 
 [推荐Blog](https://www.cnblogs.com/bigben0123/p/9115597.html)
 
